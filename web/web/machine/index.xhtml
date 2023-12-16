@@ -1,0 +1,84 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:ui="http://xmlns.jcp.org/jsf/facelets"
+      xmlns:h="http://xmlns.jcp.org/jsf/html"
+      xmlns:f="http://xmlns.jcp.org/jsf/core"
+      xmlns:p="http://primefaces.org/ui">
+    <h:head>
+        <title>Stylish Facelet Title</title>
+        <h:outputStylesheet name="css/jsfcrud.css"/>
+        <style>
+            body {
+                font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+                background-color: #f5f5f5;
+                color: #333;
+                margin: 0;
+                padding: 0;
+                display: flex;
+                flex-direction: column;
+                min-height: 100vh;
+            }
+
+            header {
+                background-color: #3498db;
+                padding: 20px;
+                text-align: center;
+                color: white;
+                font-size: 28px;
+            }
+
+            nav {
+                background-color: #2c3e50;
+                padding: 10px;
+                text-align: center;
+            }
+
+            nav a {
+                color: white;
+                text-decoration: none;
+                margin: 0 15px;
+                font-size: 18px;
+                transition: color 0.3s ease-in-out;
+            }
+
+            nav a:hover {
+                color: #3498db;
+            }
+
+            .container {
+                flex: 1;
+                max-width: 800px;
+                margin: 20px auto;
+                padding: 20px;
+                background-color: #fff;
+                border-radius: 5px;
+                box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            }
+
+            footer {
+                background-color: #2c3e50;
+                color: white;
+                text-align: center;
+                padding: 10px;
+            }
+        </style>
+    </h:head>
+    <h:body>
+        <header>
+            Welcome #{adminBean.userName} in your space !
+        </header>
+        
+        <div class="container">
+           
+            <br />
+            <nav>
+            <h:link outcome="/faces/web/employe/List" value="Show All Employees"/>
+            <h:link outcome="/faces/web/machine/List" value="Show All machines"/>
+            <h:link outcome="/faces/web/machine/MachinesByEmployee" value="Show Machines per Employees"/>
+            
+            </nav>
+        </div>
+       
+    </h:body>
+</html>
