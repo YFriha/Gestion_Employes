@@ -1,2 +1,10 @@
-https://github.com/YFriha/Gestion_Employes/assets/128365797/68285467-15ae-4f3b-9673-7aeafa57911c
 
+![Screenshot 2023-12-16 182957](https://github.com/YFriha/Gestion_Employes/assets/128365797/84636f48-c15c-451d-8e75-e005e9c3270d)
+![Screenshot 2023-12-16 183036](https://github.com/YFriha/Gestion_Employes/assets/128365797/971137ef-819b-4e73-879e-e56338310d39)
+![Screenshot 2023-12-16 183112](https://github.com/YFriha/Gestion_Employes/assets/128365797/c48f7df9-0903-44fa-ab7a-90aeb53f573f)
+![Screenshot 2023-12-16 183134](https://github.com/YFriha/Gestion_Employes/assets/128365797/d91e666d-5ed9-49c8-a51d-254f71c63333)
+![Screenshot 2023-12-16 183251](https://github.com/YFriha/Gestion_Employes/assets/128365797/eb7892b5-5627-4203-93f4-5b4dcd790bca)
+![Screenshot 2023-12-16 183322](https://github.com/YFriha/Gestion_Employes/assets/128365797/4fa5b97f-bcb1-4adc-8230-dec2a00d35cf)
+![Screenshot 2023-12-16 183353](https://github.com/YFriha/Gestion_Employes/assets/128365797/c891a875-12f5-47b3-9354-32fc8f2e1da9)
+![Screenshot 2023-12-16 183451](https://github.com/YFriha/Gestion_Employes/assets/128365797/1400bcaf-009e-48b7-ba13-bebec783bedb)
+![Screenshot 2023-12-16 183539](https://github.com/YFriha/Gestion_Employes/assets/128365797/400b056b-7cf4-47fb-b6e6-9d6a916aa40f)
